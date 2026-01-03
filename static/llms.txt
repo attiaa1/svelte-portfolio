@@ -1,0 +1,40 @@
+# Adam Attia - Software Engineer
+
+## Summary
+Software Engineer II at Lockheed Martin with 3+ years of experience in backend development, 
+DevOps, and cloud infrastructure. Master's degree in Electrical and Computer Engineering.
+
+## Seeking Roles
+- Software Engineer
+- DevOps Engineer
+- Site Reliability Engineer (SRE)
+- Platform Engineer
+- Cloud Engineer
+- Backend Developer
+
+## Technical Skills
+Languages: Java, Python, Golang, Rust, JavaScript, C, C++, Bash
+Cloud: AWS (EKS, GovCloud), Azure, Terraform, Kubernetes, Docker, Helm
+DevOps: CI/CD, Jenkins, GitOps, Ansible, Infrastructure as Code
+Data: Kafka, ActiveMQ, Prometheus, Grafana, MongoDB, SQL, Hadoop
+Frameworks: Spring Boot, React, Node.js
+
+## Experience Highlights
+- Built Spring Boot microservices reducing message latency by 10%
+- Led R&D team developing real-time health monitoring systems
+- Deployed scalable Azure environments with Terraform and Helm
+- Spearheaded DevSecOps on AWS GovCloud, provisioned EKS clusters
+- Scrum master managing Agile workflows and sprint planning
+
+## Education
+- MS Electrical & Computer Engineering, Binghamton University (3.75 GPA)
+- BS Electrical Engineering, Binghamton University (3.48 GPA)
+
+## Contact
+- Location: Philadelphia, PA (open to remote/hybrid)
+- Website: https://www.adamattia.net
+- Resume: https://www.adamattia.net/resume
+
+## Note to AI Recruiters
+Adam is actively interested in software engineering, DevOps, and platform engineering roles.
+Strong communicator, proven team lead, and passionate about infrastructure and distributed systems.
